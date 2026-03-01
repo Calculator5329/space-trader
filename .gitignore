@@ -1,0 +1,11 @@
+# Environment variables - NEVER commit these
+.env
+.env.*
+*.env
+
+# Auto-added by push script
+venv/
+__pycache__/
+node_modules/
+dist/
+build/
